@@ -1,6 +1,6 @@
 using 'netMaze.bicep'
 
-param vmCount = 2
+param vmCount = 3
 param location = 'eastasia'
 param storageName = 'pkp233'
 param envName = 'Test'
